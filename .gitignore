@@ -1,0 +1,15 @@
+/packages
+bin
+obj
+Bin
+Obj
+ClientBin
+Generated_Code
+*.generated.*
+*.suo
+*.user
+_Resharper.*
+*.xap
+*.ncrunchsolution
+AIMS certificate.*
+.vs
